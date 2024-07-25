@@ -1,0 +1,1 @@
+# Django_class_views_and_generic_views
